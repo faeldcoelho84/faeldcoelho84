@@ -17,7 +17,7 @@ Olá! Me chamo Rafael Coelho!✌️
   <img align="center" alt=fael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>  
 </div>
 
-  ![snake animation](https://github.com/faeldcoelho84/faeldcoelho84/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/faeldcoelho84/faeldcoelho84/blob/output/github-contribution-grid-snake.svg)
 <!--
 **faeldcoelho84/faeldcoelho84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
