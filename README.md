@@ -14,9 +14,10 @@ Olá! Me chamo Rafael Coelho!✌️
   <img align="center" alt=fael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
   <img align="center" alt=fael-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
   <img align="center" alt=fael-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-  <img align="center" alt=fael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>
-  
+  <img align="center" alt=fael-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"/>  
 </div>
+
+  ![snake animation](https://github.com/faeldcoelho84/faeldcoelho84/blob/output/github-contribution-grid-snake.svg)
 <!--
 **faeldcoelho84/faeldcoelho84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
